@@ -15,9 +15,9 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: admin
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: cambia_esto
+        value: Per0QueC0ntra2104
       - key: N8N_ENCRYPTION_KEY
-        value: cambia_esta_clave_larga_y_unica
+        value: 1d5b74a8fb38b0d2e8ae8f6c66b52afc
       # Si usarás webhooks públicos, agrega luego:
       # - key: WEBHOOK_URL
       #   value: https://<tu-subdominio>.onrender.com
